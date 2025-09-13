@@ -6,6 +6,7 @@ Proyecto: Encuesta.py
 
 El archivo Encuesta.py se encuentra en este repositorio. Este programa permite que 10 personas se registren en una encuesta como objetos de la clase Estudiante, realizando una serie de preguntas que se encuentran definidas como atributos de la clase Encuesta.
 El flujo del programa comienza en la función main(), la cual ejecuta los métodos que permiten hacer las preguntas, registrar las respuestas y organizarlas. Se guarda toda la información de los 10 estudiantes y, una vez acabada la ejecución del programa, se imprimen en consola los resultados de la encuesta, es decir el nombre y la edad, así como las respuestas de cada encuestado en forma de lista con viñetas.
+Tambien en este repositorio se incluye un pdf llamado "Reporte Encuesta y Grupos.pdf" en el cual incluye los resultados obtenidos en la encuesta, los integrantes que formaran este grupo de proyecto, y las ideas principales que se tienen para el proyecto.
 
 Adjunto capturas de pantalla con la salida en consola del programa y las entradas realizadas por cada usuario
 <img width="998" height="911" alt="image" src="https://github.com/user-attachments/assets/1c055b17-11bf-415e-952b-d0bd1ac5b76f" />
